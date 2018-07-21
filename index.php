@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<title>John Kevin Losito</title>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="all,follow">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">    
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Ubuntu:400,700|Ubuntu:400,400italic,700">
+    <link rel="stylesheet" href="css/mycss.css" id="theme-stylesheet">
+</head>
+<body data-spy="scroll" data-target="#navigation" data-offset="120">
+	<section id="home" style="background-image: url('img/comp.jpeg');" class="intro">      
+      <div class="overlay"></div>
+      <div class="content">
+        <div class="container clearfix">
+          <div class="row">
+            <div class="col-md-4  col-sm-12 text-center">
+              <p><img src="img/me.jpg" alt="" width="250" class="img-circle"></p>
+            </div>
+            <div class="col-md-8  col-sm-12">
+              <p class="italic" style="font-size: 25px">Hi! I'm</p>
+              <h1>John Kevin A. Losito</h1>
+              <!-- <p class="italic">I am a Web Developer.</p> --><!-- <h3 class="italic">I am <strong id="typist-element" data-typist="a Software Developer.">a Web Developer.</strong></h3> -->
+            	<h3><span class="element italic"></span></h3>
+              <ul class="list-inline list-social-icons mb-0" >
+	            <li class="list-inline-item">
+	              <a href="https://www.facebook.com/itsmekvl" target="blank">
+	                <span class="fa-stack fa-lg">
+	                  <i class="fa fa-circle fa-stack-2x"></i>
+	                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+	                </span>
+	              </a>
+	            </li>
+	            <li class="list-inline-item">
+	              <a href="https://twitter.com/JKevinLosito" target="blank">
+	                <span class="fa-stack fa-lg">
+	                  <i class="fa fa-circle fa-stack-2x"></i>
+	                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+	                </span>
+	              </a>
+	            </li>
+	            <li class="list-inline-item">
+	              <a href="https://www.linkedin.com/in/john-kevin-losito-978a25144/" target="blank">
+	                <span class="fa-stack fa-lg">
+	                  <i class="fa fa-circle fa-stack-2x"></i>
+	                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+	                </span>
+	              </a>
+	            </li>
+	          </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <header class="header">
+      <div class="sticky-wrapper">
+        <div role="navigation" class="navbar navbar-default">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-btn btn-sm navbar-toggle"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a href="#home" class="navbar-brand scroll-to" style="font-size: 25px;padding-top: 12px">JOHN KEVIN LOSITO</a>
+            </div>
+            <div id="navigation" class="collapse navbar-collapse navbar-right">
+              <ul class="nav navbar-nav">
+                <!-- <li class="active"><a href="#home">Home</a></li> -->
+                <!-- <li><a href="#about">About</a></li> -->
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#awards">Awards</a></li>
+                <li><a href="#works">My Works</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+    <section id="experience"  class="">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4 visible-md visible-lg">
+            <p><img src="img/work.jpeg" alt="Work Computer" class="img-responsive img-circle" style="border-color: #333"></p>
+          </div>
+          <div class="col-md-8 ">
+            <h2 class="heading">Experience</h2>
+            <div class="row">
+              <div class="col-md-8">
+                <div>
+                  <h3 class="mb-0">Web Developer</h3>
+                  <div class="subheading mb-3"><a href="https://www.facebook.com/taleosystemsolutions" target="_blank">Taleo System Solutions</a></div>
+                  <p>Creating websites using web framework and CMS. Executing trainings and seminars into co-workers and performing highly competative skills in the field of web development.</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                  <div>August 2017 - Present</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="education" style="background-color: #333;" class="section-inverse">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 ">
+            <h2 class="heading">Educational Attainment</h2>
+            <div class="row">
+              <div class="col-md-8">
+                <div>
+                  <h3 class="mb-0">Bachelor of Science in Computer Science</h3>
+                  <div class="subheading mb-3">Trimex Colleges</div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                  <div>2017 - 2018</div>
+              </div>
+            </div><hr>
+            <div class="row">
+              <div class="col-md-8">
+                <div>
+                  <h3 class="mb-0">Computer Hardware Servicing NCII</h3>
+                  <div class="subheading mb-3">Jacobo Z. Gonzales Memorial School of Arts and Trades</div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                  <div>June - October, 2014</div>
+              </div>
+            </div><hr>
+            <div class="row">
+              <div class="col-md-8">
+                <div>
+                  <h3 class="mb-0">Secondary</h3>
+                  <div class="subheading mb-3">Jacobo Z. Gonzales Memorial National High School</div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                  <div>2010 - 2011</div>
+              </div>
+            </div>            
+          </div>
+          <div class="col-md-4 visible-md visible-lg">
+            <p><img src="img/educ.jpg" alt="Paper/Computer" class="img-responsive img-circle"></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="awards" class="text">
+    	<div class="container">
+        <div class="row">
+        	<div class="col-md-4 visible-md visible-lg">
+            	<p><img src="img/success.jpeg" alt="awards" class="img-responsive img-circle" style="border-color: #333"></p>
+          	</div>
+          	<div class="col-md-8 ">
+	            <h2 class="heading">Awards and Achievements</h2>
+	            <div class="row">
+	              <div class="col-md-8">
+	                <div>
+	                  <h3 class="mb-0">Academic Excellence Award</h3>
+	                </div>
+	              </div>
+	              <div class="col-md-4">
+	                  <div>April 2018</div>
+	              </div>
+	            </div>
+	            <hr>
+	            <div class="row">
+	              <div class="col-md-8">
+	                <div>
+	                  <h3 class="mb-0">Best in Thesis</h3>
+	                  <div class="subheading mb-3">Predictive Analytics Implementing Genetic Algorithm on Class Scheduling System</div>
+	                </div>
+	              </div>
+	              <div class="col-md-4">
+	                  <div>April 2018</div>
+	              </div>
+	            </div>
+	            <hr>
+	            <div class="row">
+	              <div class="col-md-8">
+	                <div>
+	                  <h3 class="mb-0">Programmer of the Year</h3>
+	                </div>
+	              </div>
+	              <div class="col-md-4">
+	                  <div>April 2018</div>
+	              </div>
+	            </div>
+	            <hr>
+	            <div class="row">
+	              <div class="col-md-8">
+	                <div>
+	                  <h3 class="mb-0">2<sup>nd</sup> Place Programming Competition: VB.NET (with database)</h3>
+	                  <div class="subheading mb-3">2nd Annual Regional IT Competitions and Research Conference and Presentation<br> ISITE – Integrated Southern Tagalog Association of Information Technology Education</div>
+	                </div>
+	              </div>
+	              <div class="col-md-4">
+	                  <div>March 13, 2017</div>
+	              </div>
+	            </div>
+	            <hr>
+	        </div>
+          <!-- <div class="col-md-4">
+            <p><img src="img/work.jpeg" alt="" class="img-responsive img-circle"></p>
+          </div> -->
+        </div>
+      </div>
+      
+    </section>
+
+    <section id="works" style="background-color: #333;" class="text-page section-inverse"> 
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h2 class="heading">Works / Projects</h2>
+            <div class="row">
+              <div class="col-sm-6">
+                <h3 class="mb-0"><a href="http://e-grades.com" target="_blank">E-Grades</a></h3>
+                <p>An online e-grading system for Trimex Colleges - College of Computer Studies Department</p>
+              </div>
+              <div class="col-sm-6">
+                <h3 class="mb-0"><a href="http://louieagustin.com/subdomain/trimexeval.com/index.php?page=login" target="_blank">Trimex Evaluation System</a></h3>
+                <p>An online faculty evaluation System for Trimex Colleges</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <h5>***Most of my works are project-based and deployed on the local server of my clients***</h5>
+      </div>
+    </section>    
+	<script src="js/jquery.min.js"></script>  
+    <script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.sticky.js"></script>
+    <script src="js/jquery.scrollTo.min.js"></script>    
+    <script src="js/front.js"></script>
+    <script src="js/typed.js"></script></body>
+    <script type="text/javascript">
+    	var typed = new Typed('.element', {
+		  strings: ['I am a <strong>Web Developer.</strong>', 'I am a <strong>Software Developer.</strong>', ],
+		    typeSpeed: 30,
+		    backSpeed: 30,
+		    smartBackspace: true, // this is a default
+		    loop: true,
+		    //cursorChar: '_', 
+		    backDelay: 500,
+    		startDelay: 1000,
+		    
+				});
+    </script>
+</html>
